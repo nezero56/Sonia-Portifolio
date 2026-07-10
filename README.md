@@ -1,4 +1,4 @@
-# Sonia Munezero — Personal Portfolio
+Sonia Munezero — Personal Portfolio
 
 A modern, responsive personal portfolio website built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 
