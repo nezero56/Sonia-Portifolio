@@ -78,7 +78,6 @@ export const experience: ExperienceItem[] = [
   {
     title: "IT Assistant Intern",
     company: "StarTimes",
-    
     description:
       "Provided comprehensive system maintenance and dedicated user support to ensure smooth daily operations and minimize technical downtime.",
     tags: ["System Maintenance", "User Support", "Technical Troubleshooting"],
@@ -104,7 +103,7 @@ export const certifications: CertificationItem[] = [
     title: "Web Fundamentals",
     issuer: "She Can Code Program (IGIRE Organization)",
     description:
-      "Completed a comprehensive web development program covering HTML, CSS, JavaScript, and responsive design.",
+      "Developed web interfaces using Next.js, React, TypeScript, and Tailwind CSS, including responsive designs, forms, API integration, and frontend testing.",
     icon: "code",
   },
   {
@@ -129,7 +128,7 @@ export const contactInfo = {
   location: "Kigali, Rwanda",
 };
 
-export const socialLinks = [
+export const socialLinks  = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/sonia-munezero-8752b3355/", icon: "linkedin" },
   { label: "GitHub", href: "https://github.com/nezero56", icon: "github" },
 ];
